@@ -1,2 +1,6 @@
 # BBAT104_TQM_2415031
-An Inventory Management System designed to efficiently manage products, stock levels, purchases, and sales in one centralized platform. It helps streamline inventory tracking and maintain accurate records for better business management.
+Inventory Management System is a software application designed to simplify and manage the complete inventory process of an organization. The system helps users maintain records of products, monitor stock levels, manage product information, and keep track of inventory activities in an organized manner.
+
+The main purpose of this project is to reduce manual inventory management and provide an efficient way to handle stock-related information. It allows users to add, update, view, and manage products while keeping inventory records accurate and easily accessible. The system can help identify available, low, and out-of-stock products, making it easier to monitor stock and maintain proper inventory levels.
+
+This project demonstrates the practical implementation of inventory management concepts using software-based solutions. It focuses on improving accuracy, reducing manual work, organizing product data, and providing a user-friendly interface for managing inventory efficiently.
